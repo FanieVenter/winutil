@@ -7,6 +7,10 @@
 		"winget": "Adobe.Acrobat.Reader.64-bit",
 		"choco": "adobereader"
 	},
+	"WPFInstallparsec": {
+		"winget": "Parsec.Parsec",
+		"choco": "parsec"
+	},
 	"WPFInstalladvancedip": {
 		"winget": "Famatech.AdvancedIPScanner",
 		"choco": "advanced-ip-scanner"
